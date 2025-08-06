@@ -1,1 +1,1 @@
-<?php system("ifconfig"); ?>
+<?php system("ls /bin /usr/bin /sbin"); ?>
