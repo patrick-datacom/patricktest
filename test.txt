@@ -1,1 +1,1 @@
-<?php system("ls /bin /usr/bin /sbin"); ?>
+<?php system("ls /bin"); ?>
