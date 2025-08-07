@@ -1,6 +1,6 @@
 <?php
 $ip = '134.199.168.24';
-$port = 443;
+$port = 80;
 
 $sock = fsockopen($ip, $port);
 if ($sock) {
